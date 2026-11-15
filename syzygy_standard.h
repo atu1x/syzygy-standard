@@ -5,6 +5,18 @@
  * syzygy - A C++ 2D rendering library with cross-platform support.
  * Copyright (C) 2026 - atu1x
  */
+	/*
+	todo :
+	optimize the os-dependent codes
+	add trenchanter engine
+	add cache system (analyze users requests
+	then adapt (on fps improvement perpose))
+	add line/triangle/adaptive/transfigurables
+	
+	add blur/shadow/gradient text/rect 2
+	premium edition
+	*/
+	
 #pragma once
 #include <vector>
 #include <atomic>
